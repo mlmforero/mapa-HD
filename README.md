@@ -8,4 +8,6 @@
  
  El mapa base es un desarrollo de la unidad SIGyHD diseñado con Mapbox GL  para añadir las teselas vectoriales.
  
+ Todo el contenido creado está disponible bajo licencia CC BY-NC-SA 4.0
+ 
 
